@@ -28,7 +28,7 @@ Example:
 - Ensure that there are no trailing spaces
 
 Example:
-
+d
 ```diff
   ci-link,21.5.1,1234
   fit-textareas,21.5.1,2001
